@@ -1,0 +1,9 @@
+S.a baba Göndereceðim text dosyasýna göre aþaðýda yazan sorunun cevabýný bulan program kodunu yazmam gerekiyor yardýma ihtiyacým var.
+Hava:güneþli
+Sýcaklýk:serin
+Nem:yüksek
+Ruzgar:güçlü 
+Ýse
+Karar ?
+Not:text dosyasýnda boþ olan deðer: serin
+Bahaeddin TÜRKOÐLU

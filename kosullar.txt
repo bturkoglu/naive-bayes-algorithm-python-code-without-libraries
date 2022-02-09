@@ -1,0 +1,15 @@
+﻿No	Hava	Sicaklik	Nem	Rüzgar	Karar
+1	gunesli	sicak	yuksek	zayif	H
+2	gunesli	sicak	yuksek	guclu	H
+3	bulutlu	sicak	yuksek	zayif	E
+4	yagmurlu	ilik	yuksek	zayif	E
+5	yagmurlu	serin	normal	zayif	E
+6	yagmurlu	serin	normal	guclu	H
+7	bulutlu	serin	normal	guclu	E
+8	gunesli	ilik	yuksek	zayif	H
+9	gunesli	serin	normal	zayif	E
+10	yagmurlu	ilik	normal	zayif	E
+11	gunesli	ilik	normal	guclu	E
+12	bulutlu	sicak	normal	zayif	E
+13	bulutlu	ilik	yuksek	guclu	E
+14	yagmurlu	ilik	yuksek	guclu	H
