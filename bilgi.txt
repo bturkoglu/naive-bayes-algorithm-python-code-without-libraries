@@ -1,9 +1,8 @@
-S.a baba Göndereceğim text dosyasına göre aşağıda yazan sorunun cevabını bulan program kodunu yazmam gerekiyor yardıma ihtiyacım var.
-Hava:güneşli
-Sıcaklık:serin
-Nem:yüksek
-Ruzgar:güçlü 
-İse
+Hava:gÃ¼neÅŸli
+SÄ±caklÄ±k:serin
+Nem:yÃ¼ksek
+Ruzgar:gÃ¼Ã§lÃ¼ 
+Ä°se
 Karar ?
-Not:text dosyasında boş olan değer: serin
-Bahaeddin TÜRKOĞLU
+Not:text dosyasÄ±nda boÅŸ olan deÄŸer: serin
+Bahaeddin TÃœRKOÄLU
